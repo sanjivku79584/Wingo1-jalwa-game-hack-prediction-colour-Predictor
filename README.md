@@ -1,6 +1,4 @@
-# Aviator-Predictor
 
-_Demo-focused aviator predictor tools — seed-inspection helpers (SHA-512 / SHA-256), AI-assisted summaries, and demo bot templates for aviator crash predictor, Start in demo mode to test safely._
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/6b44fbfd-5b94-40fc-9aaf-0e339385a3b6" alt="Aviator Predictor logo — aviator predictor apk" />
